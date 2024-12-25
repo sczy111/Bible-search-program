@@ -19,6 +19,9 @@ If you just want to use this program, download it from the release:
 ### How to Use:
 1. Download the source code.
 2. Run `main.py` to execute the program.
+> **Notes**:
+> - Ensure you have Python installed on your system before running the program.
+> - The program may require minor modifications if you use a different directory structure or system setup.
 
 ---
 
