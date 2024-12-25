@@ -1,7 +1,8 @@
 # Bible Search Program
 
 A simple Bible search program for both Chinese and English users to use offline.
-
+The project relies on external sources for Bible data, including the ASV version and Chinese translations.
+Contributions are welcome, and updates to support other versions may be added in the future.
 ---
 
 ## For General Users
@@ -29,6 +30,7 @@ If you just want to use this program, download it from the release:
 - **`Modified_usx_cn` folder**: Contains the Chinese version of the Bible for each book.
 - **`Version_update` folder**: Includes the program used to update the English version to the Chinese version.
 
+
 #### Code Highlights:
 The key code segment for the version update process (from `Version_update`) is from **lines 142–162**:
 
@@ -53,8 +55,6 @@ usx_tree = replace_verses(usx_tree, verse_elements, chinese_verses)
 remove_english_text(root)
 
 # Save the modified USX file
-output_usx_file = "66-modified_REV.usx"
+output_usx_file = "66-modified_REV.usx" 
 
-## Notes:
-The project relies on external sources for Bible data, including the ASV version and Chinese translations.
-Contributions are welcome, and updates to support other versions may be added in the future.
+
