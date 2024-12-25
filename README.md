@@ -1,8 +1,8 @@
 # Bible Search Program
 
-A simple Bible search program for both Chinese and English users to use offline.
-The project relies on external sources for Bible data, including the ASV version and Chinese translations.
-Contributions are welcome, and updates to support other versions may be added in the future.
+- A simple Bible search program for both Chinese and English users to use offline.
+- The project relies on external sources for Bible data, including the ASV version and Chinese translations.
+- Contributions are welcome, and updates to support other versions may be added in the future.
 ---
 
 ## For General Users
