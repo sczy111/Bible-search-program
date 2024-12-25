@@ -54,3 +54,7 @@ remove_english_text(root)
 
 # Save the modified USX file
 output_usx_file = "66-modified_REV.usx"
+
+## Notes:
+The project relies on external sources for Bible data, including the ASV version and Chinese translations.
+Contributions are welcome, and updates to support other versions may be added in the future.
