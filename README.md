@@ -8,7 +8,7 @@
 ## For General Users
 
 If you just want to use this program, download it from the release:  
-[Download the Bible Search Program](https://github.com/sczy111/Bible-search-program/releases/tag/Bible_search)
+[Download the Bible Search Program](https://github.com/sczy111/Bible-search-program/releases)
 
 
 ---
