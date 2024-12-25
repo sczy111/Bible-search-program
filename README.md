@@ -31,7 +31,7 @@ If you just want to use this program, download it from the release:
 - **`main.py`**: The main program required to run the project.
 - **`usx` folder**: Contains files sourced from [Open Bible Info](https://github.com/openbibleinfo/American-Standard-Version-Bible), which are the American Standard Version (ASV) of the Bible.
 - **`Modified_usx_cn` folder**: Contains the Chinese version of the Bible for each book.
-- **`Version_update` folder**: Includes the program used to update the English version to the Chinese version.
+- **`Version_update.py`**: Includes the program used to update the English version to the Chinese version.
 
 
 #### Code Highlights:
